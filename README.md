@@ -4,7 +4,7 @@
 
 # Sandra Saju S L
 
-**AI Engineer · Full-Stack Developer · Japan Internship Alumni**
+**AI Engineer · Full-Stack Developer · Japan Intern 2025-2026**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandra-sajusl/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sandrasaju)
