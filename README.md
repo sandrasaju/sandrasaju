@@ -15,7 +15,7 @@
 
 ## ⚙️ Tech Stack
 **Languages:**  
-Java • Python • JavaScript • SQL • Ruby • Golang  
+Java • Python • JavaScript • SQL • Ruby •  
 
 **Frameworks & Tools:**  
 Spring Boot • Flask • Ruby on Rails • React • Bootstrap • jQuery  
