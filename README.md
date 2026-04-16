@@ -103,7 +103,6 @@ M.Tech candidate in AI & Machine Learning with hands-on production experience ac
 
 ---
 
-## GitHub Stats
 
 <div align="center">
 
