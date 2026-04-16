@@ -106,8 +106,6 @@ M.Tech candidate in AI & Machine Learning with hands-on production experience ac
 ## GitHub Stats
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sandrasaju&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=7c6af7&icon_color=a78bfa&text_color=e2e2f0)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandrasaju&theme=tokyonight&hide_border=true&background=0d0d14&ring=7c6af7&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
