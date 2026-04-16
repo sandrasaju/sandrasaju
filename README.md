@@ -106,13 +106,6 @@ M.Tech candidate in AI & Machine Learning with hands-on production experience ac
 ## GitHub Stats
 
 <div align="center">
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandrasaju&theme=tokyonight&hide_border=true&background=0d0d14&ring=7c6af7&fire=a78bfa&currStreakLabel=a78bfa)
-
-</div>
-
----
-
-<div align="center">
 
 *"Building intelligent systems that solve real-world problems."*
 
